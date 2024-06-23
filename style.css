@@ -1,0 +1,30 @@
+*{
+    font-family: sans-serif;
+}
+
+
+
+
+.menu{
+    transition: all 1s ease;
+}
+
+
+
+ @media (min-width: 768px) { 
+    p{
+        font-size: 16px;
+    }
+  }
+
+  @media (min-width: 1024px) { 
+    p{
+        font-size: 17px;
+    }
+  }
+
+  @media (min-width:1536px) { 
+    p{
+        font-size:20px;
+    }
+  }
